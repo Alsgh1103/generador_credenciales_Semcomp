@@ -1,0 +1,1 @@
+# generador_credenciales_Semcomp
